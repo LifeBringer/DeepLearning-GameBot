@@ -22,11 +22,11 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of training the computer vision model using racing (TOP 5):
 
-<img src='DLCompetition.mp4' title='Vision model development' width='' alt='Refining the initial vision model' />
+<img src='DLCompetition.gif' title='Vision model development' width='' alt='Refining the initial vision model' />
 
 Here's a walkthrough of the final model using a controller to play hockey:
 
-<img src='DLTournament.mp4' title='Controller model development' width='' alt='Competing with other agents' />
+<img src='DLTournament.gif' title='Controller model development' width='' alt='Competing with other agents' />
 
 Scaffolding code derived by the work of Prof. Philipp Krähenbühl. Thank you for the inspiration and the teachings!
 
