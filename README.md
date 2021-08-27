@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of training the computer vision model through racing (TOP 5):
+Here's a walkthrough of training the computer vision model through racing (Top 5):
 
 <img src='DLCompetitions.gif' title='Vision model development' width='' alt='Refining the initial vision model' />
 
