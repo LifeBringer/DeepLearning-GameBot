@@ -34,6 +34,8 @@ Scaffolding code derived by the work of Prof. Philipp Krähenbühl. Thank you fo
 
 Colab has a limitation in terms of X11 forwarding which made it difficult to stream the activities in real time. The overall hardware was limited for training, using better hardware could yield in better results with more comprehensive models. The best approach is to generate an MP4 file and download it from the remote server. Instead of using a controller, with better hardware, could have implemented a reinforcement learning approach.
 
+In order to run the simulation you need to use install Pystk. If you are using colab you can use the following [binary](http://www.cs.utexas.edu/~bzhou/PySuperTuxKart-1.0.3-cp36-cp36m-linux_x86_64.whl). If you'd like help getting started, you can check out the following [video](https://drive.google.com/file/d/1Bj9utSeiXK5emq8MpcYKjcjU0itpT2TT/view). If links are broken you need build from scratch using the pystk [instuctions](https://github.com/philkr/pystk). 
+
 ## License
 
     Copyright 2021
