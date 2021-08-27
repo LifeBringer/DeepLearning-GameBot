@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of training the computer vision model using racing (TOP 5):
 
-<img src='DLCompetition.gif' title='Vision model development' width='' alt='Refining the initial vision model' />
+<img src='DLCompetitions.gif' title='Vision model development' width='' alt='Refining the initial vision model' />
 
 Here's a walkthrough of the final model using a controller to play hockey:
 
