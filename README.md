@@ -1,6 +1,6 @@
 # DeepLearning-GameBot
 
-DeepLearning Game Bot is a competition winning game bot, it consists of a deep learning based computer vision system and a controller. The bot is adoptable and training via Google Collab, developed completely remotely. The computer vision model and controller for this agent has won 5th place in a competition. It's a simple model inspired by the Yolo framework.
+The agent developed is a competition winning game bot, it consists of a deep learning based computer vision system and a controller. The bot is adaptable and trained via Google Collab, developed and run entirely remotely. The computer vision model and controller for this agent has won 5th place in a competition (against 201 participants). The computer vision model consists of CNN and FCN layers, it's a simple model inspired by the Yolo framework.
 
 Time spent: **12** hours spent in total
 
@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of training the computer vision model using racing (TOP 5):
+Here's a walkthrough of training the computer vision model through racing (TOP 5):
 
 <img src='DLCompetitions.gif' title='Vision model development' width='' alt='Refining the initial vision model' />
 
